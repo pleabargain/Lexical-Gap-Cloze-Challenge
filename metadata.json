@@ -1,0 +1,5 @@
+{
+  "name": "Lexical Gap Cloze Challenge",
+  "description": "A language learning tool that generates texts with removed collocations and idioms for students to fill in, adapted to their CEFR level.",
+  "requestFramePermissions": []
+}
